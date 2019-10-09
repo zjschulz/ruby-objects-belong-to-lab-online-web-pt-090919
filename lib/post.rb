@@ -4,4 +4,4 @@ class Post
 
 end
 
-artist = Author.new
+post = Author.new
